@@ -73,3 +73,4 @@ class Levelwater:
 
         if url.get("message") == 'Level 1 atingido':
             return "Level 1 atingido"
+

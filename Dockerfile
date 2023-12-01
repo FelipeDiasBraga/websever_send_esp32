@@ -14,3 +14,4 @@ COPY . .
 WORKDIR /websever_send_esp32
 
 CMD ["python3", "-u", "/main.py"]
+
