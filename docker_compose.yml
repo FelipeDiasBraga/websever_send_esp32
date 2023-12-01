@@ -1,0 +1,10 @@
+version: "3.7"
+
+services:
+  websever_send_esp32:
+    build: .
+    restart: always
+    ports:
+      - "8282:8282"
+    image: websever_send_esp32
+    container_name: websever_send_esp32
