@@ -58,12 +58,12 @@ class Levelwater:
         while True:
 
             if self.url_request() == "Level 1 atingido":
-                time.sleep(60)
+                time.sleep(3)
 
                 SendEmail(to_email=["felipebragabarroso@gmail.com"], message="Level 1 atingido")
 
             else:
-                time.sleep(5)
+                time.sleep(3)
                 print(self.url_request())
                 print("ERRO 404")
                 Levelwater(self.link)

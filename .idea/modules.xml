@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject4.iml" filepath="$PROJECT_DIR$/.idea/pythonProject4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../request_data_Esp32/.idea/request_data_Esp32.iml" filepath="$PROJECT_DIR$/../request_data_Esp32/.idea/request_data_Esp32.iml" />
     </modules>
   </component>
 </project>
